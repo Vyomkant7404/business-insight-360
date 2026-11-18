@@ -25,7 +25,7 @@ A few things the data surfaced that I'd flag to leadership first:
 
 - **Top accounts are a margin risk, not just a revenue source.** Amazon and AtliQ Exclusive together drive ~30% of revenue contribution, but both show the steepest negative GM% deltas (-8.68% and -5.42%) of any major account — concentration risk is building on the customers with the *worst* trending margins.
 
-- **Regional performance is inconsistent under a flat headline.** India and ROA post negative Net Profit % (-14.73%, 8.87% positive but high error), while NA and NE are barely positive — the "All" view in Executive hides that most regions are individually underwater.
+- **Regional performance is inconsistent under a flat headline.** India and ROA post negative Net Profit % (-14.73%, 8.87% positive but high error), while NA and NE are barely positive, the "All" view in Executive hides that most regions are individually underwater.
 
 ---
 
